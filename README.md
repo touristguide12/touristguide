@@ -8,9 +8,9 @@ Ethiopian Tourist Guide, with a frontend built in React & Redux and a backend bu
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-guide.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://front-end-tg.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-guide.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://back-end-tg.herokuapp.com/) here!!
 
 ## Tech used
 
