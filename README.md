@@ -1,4 +1,4 @@
-# Ethiopian Visitors in React & Redux + Django
+# Ethopian Visitors in React & Redux + Django
 
 ```
 Ethiopian Visitors , with a frontend built in React & Redux and a backend built in Django API.
